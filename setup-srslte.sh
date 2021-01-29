@@ -28,7 +28,7 @@ maybe_install_packages \
     cmake libfftw3-dev libmbedtls-dev libboost-program-options-dev \
     libconfig++-dev libsctp-dev libzmq3-dev
 
-git clone https://gitlab.flux.utah.edu/powderrenewpublic/srslte-ric
+git clone https://github.com/cyb3rbuff/srslte-ric
 cd srslte-ric
 mkdir -p build
 cd build
